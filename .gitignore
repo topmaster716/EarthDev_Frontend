@@ -1,0 +1,8 @@
+# App artifacts
+/_build
+
+# Generated on crash by NPM
+npm-debug.log
+
+# Static artifacts
+/node_modules

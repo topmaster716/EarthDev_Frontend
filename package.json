@@ -16,7 +16,7 @@
         "lodash.differencewith": "^4.5.0",
         "lodash.flow": "^3.5.0",
         "material-ui-pickers": "^2.2.4",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
         "react-modal": "^3.8.1",
